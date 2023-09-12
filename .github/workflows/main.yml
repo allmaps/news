@@ -24,13 +24,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/configure-pages@v1
-        id: pages
-      - uses: actions/setup-node@v3
+        id: pages  
+      - uses: pnpm/action-setup@v2
         with:
-          node-version: 16
-          cache: 'npm'
-      - run: npm ci
-      - run: npm run build
+          version: 8
+          run_install: |
+            - recursive: true
+              args: [--frozen-lockfile, --strict-peer-dependencies]          
+      - run: pnpm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
