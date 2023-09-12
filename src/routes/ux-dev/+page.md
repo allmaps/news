@@ -29,7 +29,7 @@ Conversion notes:
 
 The Leventhal Map & Education Center (LMEC) at the Boston Public Library seeks to contract a creative software engineer with interests in the digital geohumanities and a strong background in front-end web development for the role of **_Allmaps UX/UI Developer_**. The successful candidate should have experience with TypeScript, SvelteKit, and Tailwind CSS, etc….
 
-<img src="images/allmaps-viewer.jpg" />
+<img alt="Allmaps Viewer" src="images/allmaps-viewer.jpg" />
 
 ## Full job description
 
