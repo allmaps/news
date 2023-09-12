@@ -16,15 +16,12 @@
   <meta property="og:image" content={`https://allmaps.org/news/${image}`} />
 </svelte:head>
 
-<article class="prose lg:prose-xl container mx-auto">
+<article class="prose lg:prose-xl container mx-auto mb-32 p-4">
   <div class="flex flex-row justify-center">
     <div class="w-20 inline-block">
       <Logo />
     </div>
   </div>
-  <h1>{title}</h1>
+  <h1 class="text-center">{title}</h1>
   <slot />
 </article>
-
-<style>
-</style>
