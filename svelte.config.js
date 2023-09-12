@@ -13,12 +13,7 @@ const config = {
   extensions: ['.svelte', ...mdsvexOptions.extensions],
   preprocess: [vitePreprocess(), mdsvex(mdsvexOptions)],
   kit: {
-    adapter: adapter({
-      pages: 'build',
-      assets: 'build',
-      fallback: 'index.html',
-      precompress: false
-    })
+    adapter: adapter()
   }
 }
 
