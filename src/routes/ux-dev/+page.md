@@ -1,5 +1,5 @@
 ---
-title: Allmaps UX/UI Developer
+title: 'Freelance position: UX/UI Developer for Allmaps'
 description: The Leventhal Map & Education Center](https://www.leventhalmap.org (LMEC) at the Boston Public Library and the Allmaps project seek to contract for a creative UX/UI designer and developer.
 image: images/allmaps-viewer.jpg
 ---
