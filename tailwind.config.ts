@@ -7,7 +7,8 @@ import type { Config } from 'tailwindcss'
 export default {
   content: [
     './src/**/*.{html,js,svelte,ts}',
-    './dist/components/**/*.{html,js,svelte,ts}'
+    './dist/components/**/*.{html,js,svelte,ts}',
+    './node_modules/@allmaps/ui/dist/components/**/*.{html,js,svelte,ts}'
   ],
   theme,
   plugins: [typegraphy]
