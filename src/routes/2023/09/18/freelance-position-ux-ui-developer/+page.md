@@ -1,7 +1,7 @@
 ---
 title: 'Freelance position: UX/UI Developer for Allmaps'
 description: The Leventhal Map & Education Center at the Boston Public Library and the Allmaps project seek to contract for a creative UX/UI developer.
-image: images/allmaps-viewer.jpg
+image: 'opengraph/2023-09-18-freelance-position-ux-ui-developer.jpg'
 ---
 
 <script lang="ts">
