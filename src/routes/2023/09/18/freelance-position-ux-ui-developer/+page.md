@@ -45,7 +45,7 @@ During this project, we are also focusing on the following principles:
 - **Open data** - Data about georeferenced maps produced by the various components of Allmaps is published as open data.
 - **Accessibility** - Incorporating accessibility features in conformance with the [W3C Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/) will be an important aspect of the successful UX/UI Developer’s role.
 - **Internationalization** - Currently, we only use English in our user interfaces. In the future, we plan to translate our web apps to different languages.
-- **Responsive design** - All Allmaps apps should work on smartphone screens, on tablets, on laptops and on desktop computers.
+- **Responsive design** - All Allmaps apps should work on smartphones, on laptops and on desktop computers.
 - **Documentation, examples & tutorials** - While the UX/UI Developer is not expected to write documentation, they may be asked to help develop working code snippets and examples (e.g., Kaggle/Jupyter/Observable notebooks).
 
 ## Applying
