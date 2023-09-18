@@ -4,8 +4,10 @@ description: The Leventhal Map & Education Center at the Boston Public Library a
 image: images/allmaps-viewer.jpg
 ---
 
-<script>
-	import { MapMonster } from "@allmaps/ui"
+<script lang="ts">
+  import { base } from '$app/paths'
+
+	import { MapMonster } from '@allmaps/ui'
   import { yellow } from '@allmaps/tailwind'
 
   const speechBalloonBackgroundColor = yellow
@@ -14,7 +16,7 @@ image: images/allmaps-viewer.jpg
 
 The [Leventhal Map & Education Center](https://www.leventhalmap.org/) (LMEC) at the Boston Public Library and the [Allmaps project](https://allmaps.org) seek to contract for a creative UX/UI developer with interests in the digital humanities for the role of **_Allmaps UX/UI Developer_**. Please submit applications by **Wednesday, October 18 **for full consideration. Applications will continue to be reviewed until the position is filled.
 
-<a href="https://viewer.allmaps.org/?url=https%3A%2F%2Fannotations.allmaps.org%2F%3Furl%3Dhttps%3A%2F%2Frotterdamspubliek.nl%2Fiiif%2FNL-RtSA_4001_1972-755-1%2Finfo.json"><img alt="Allmaps Viewer" src="/images/allmaps-viewer.jpg" /></a>
+<a href="https://viewer.allmaps.org/?url=https%3A%2F%2Fannotations.allmaps.org%2F%3Furl%3Dhttps%3A%2F%2Frotterdamspubliek.nl%2Fiiif%2FNL-RtSA_4001_1972-755-1%2Finfo.json"><img alt="Allmaps Viewer" src="{base}/images/allmaps-viewer.jpg" /></a>
 
 ## About the project
 

@@ -8,12 +8,17 @@ const mdsvexOptions = {
   layout: './src/lib/components/Layout.svelte'
 }
 
+const dev = process.env.NODE_ENV === 'development'
+
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
   extensions: ['.svelte', ...mdsvexOptions.extensions],
   preprocess: [vitePreprocess(), mdsvex(mdsvexOptions)],
   kit: {
-    adapter: adapter()
+    adapter: adapter(),
+    paths: {
+      base: dev ? '' : '/news'
+    }
   }
 }
 
