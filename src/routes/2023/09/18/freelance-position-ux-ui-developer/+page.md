@@ -1,8 +1,10 @@
 ---
 title: 'Freelance position: UX/UI Developer for Allmaps'
-description: The Leventhal Map & Education Center at the Boston Public Library and the Allmaps project seek to contract for a creative UX/UI developer.
+description: 'Freelance position: Creative UX/UI developer to design and implement new features in the Allmaps platform'
 image: 'opengraph/2023-09-18-freelance-position-ux-ui-developer.jpg'
 ---
+
+<!-- ### Developer sought for NEH-funded project on georeferencing and digital humanities -->
 
 <script lang="ts">
   import { base } from '$app/paths'
@@ -16,11 +18,11 @@ image: 'opengraph/2023-09-18-freelance-position-ux-ui-developer.jpg'
 
 The [Leventhal Map & Education Center](https://www.leventhalmap.org/) (LMEC) at the Boston Public Library and the [Allmaps project](https://allmaps.org) seek to contract for a creative UX/UI developer with interests in the digital humanities for the role of **_Allmaps UX/UI Developer_**. Please submit applications by **Wednesday, October 18 **for full consideration. Applications will continue to be reviewed until the position is filled.
 
-<a href="https://viewer.allmaps.org/?url=https%3A%2F%2Fannotations.allmaps.org%2F%3Furl%3Dhttps%3A%2F%2Frotterdamspubliek.nl%2Fiiif%2FNL-RtSA_4001_1972-755-1%2Finfo.json"><img alt="Allmaps Viewer" src="{base}/images/allmaps-viewer.jpg" /></a>
+<a href="https://allmaps.org/"><img alt="Allmaps Viewer" src="{base}/images/allmaps-viewer.jpg" /></a>
 
 ## About the project
 
-**Allmaps** is an open-source, web-based platform for creating, curating, and viewing georeferenced maps. We’re looking for an experienced and creative UX/UI developer** who can both design and implement user interfaces** to help us refine existing features in the Allmaps platform and incorporate design feedback from user testing. You’ll design and create user interfaces that are simple and fun to use, both on desktop computers and smartphones, and you’ll work on a design system and reusable components that will be used throughout the Allmaps project. As the Allmaps UX/UI Developer, you will work closely with [Bert Spaan](https://twitter.com/bertspaan) (Allmaps Lead Developer).
+**Allmaps** is an open-source, web-based platform for creating, curating, and viewing georeferenced maps. We’re looking for an experienced and creative UX/UI developer **who can both design and implement user interfaces** to help us refine existing features in the Allmaps platform and incorporate design feedback from user testing. You’ll design and create user interfaces that are simple and fun to use, both on desktop computers and smartphones, and you’ll work on a design system and reusable components that will be used throughout the Allmaps project. As the Allmaps UX/UI Developer, you will work closely with [Bert Spaan](https://twitter.com/bertspaan) (Allmaps Lead Developer).
 
 This contract work will be undertaken as part of a [Digital Humanities Advancement Grant](https://www.neh.gov/news/neh-announces-413-million-280-humanities-projects-nationwide), _Making Open-Source Georeferencing Technology Collections-Ready with the Allmaps Platform_, awarded to the LMEC by the National Endowment for the Humanities. The project aims to polish existing functionality, as well as create new features, throughout the Allmaps platform with the goal of making it easier for map-holding institutions across the world to incorporate Allmaps into their digital collections.
 
